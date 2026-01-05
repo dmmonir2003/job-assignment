@@ -40,7 +40,7 @@ Check out the live version of the application: [https://job-assignment-tawny.ver
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd task-animated-landing-page
+   cd task
    ```
 2. Install the dependencies:
    ```bash
